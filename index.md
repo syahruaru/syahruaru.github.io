@@ -23,6 +23,17 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<br><br>
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+   <a href="https://syahruaru-capstone-project-edu-capstone-project-edu-nnsc05.streamlit.app/">Link</a> 
+
+   ---
 
 ### Category Name 2
 
