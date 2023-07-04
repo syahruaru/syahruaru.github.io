@@ -12,6 +12,7 @@
   <br><br>
   Second description 
   <br><br>
+  <a href="https://www.linkedin.com/in/syahru-al-munawwar/">View My LinkedIn Profile</a> 
   
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
