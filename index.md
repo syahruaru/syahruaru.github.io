@@ -5,42 +5,28 @@
 ### Category Name 1 
 
 # Project 1 Title
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/project1.jpg?raw=true"/>
 <br><br>
-  First description 
+  Visualisasi Data Sekolah Negeri vs Sekolah Swasta di Kota Bekasi
   <br><br>
-  Second description 
+  Tetris Capstone Project 
   <br><br>
    <a href="https://syahruaru-capstone-project-edu-capstone-project-edu-nnsc05.streamlit.app/">Link</a> 
    
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Coming Soon
+<img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/Updated%20Soon.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Coming Soon
+<img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/Updated%20Soon.jpg?raw=true"/>
 
 ---
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-<br><br>
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-   <a href="https://syahruaru-capstone-project-edu-capstone-project-edu-nnsc05.streamlit.app/">Link</a> 
-
-   ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Coming Soon
 
 ---
 
