@@ -6,6 +6,7 @@
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><br>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
