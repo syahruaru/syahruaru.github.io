@@ -7,7 +7,7 @@
 # Visualisasi Data Edukasi
 <img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/project1.jpg?raw=true"/>
 
-  Visualisasi Data Fasilitas dan kualitas Guru Sekolah Negeri vs Sekolah Swasta di Kota Bekasi
+  Visualisasi Data Fasilitas dan Kualitas Guru Sekolah Negeri vs Sekolah Swasta di Kota Bekasi
   <br><br>
   Tetris Capstone Project 
   
