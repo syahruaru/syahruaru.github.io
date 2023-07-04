@@ -1,12 +1,11 @@
 title: Syahru Aru # your name (or website title) here
-logo: "https://github.com/syahruaru/syahruaru.github.io/blob/master/Project%201%20(1).png?raw=true" # your photo (or logo) here
+logo: "https://github.com/syahruaru/syahruaru.github.io/blob/master/images/Picture1.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Fresh Graduate from Electronics and Instrumentation Faculty of Mathematics and Natural Sciences, Gadjah Mada University. 
   <br><br>
   <a href="https://www.linkedin.com/in/syahru-al-munawwar/">View My LinkedIn Profile</a> 
   <br><br>
   <a href="https://bit.ly/3E5mPNB">Other Portofolio</a> 
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
