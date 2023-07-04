@@ -4,14 +4,14 @@
 
 ### Category Name 1 
 
-# Project 1 Title
+# Visualisasi Data Edukasi
 <img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/project1.jpg?raw=true"/>
-<br><br>
-  Visualisasi Data Sekolah Negeri vs Sekolah Swasta di Kota Bekasi
+
+  Visualisasi Data Fasilitas dan kualitas Guru Sekolah Negeri vs Sekolah Swasta di Kota Bekasi
   <br><br>
   Tetris Capstone Project 
-  <br><br>
-   <a href="https://syahruaru-capstone-project-edu-capstone-project-edu-nnsc05.streamlit.app/">Link</a> 
+  
+   <a href="https://syahruaru-capstone-project-edu-capstone-project-edu-nnsc05.streamlit.app/">Dashboard Interactive Link </a> 
    
 ---
 Coming Soon
