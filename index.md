@@ -12,8 +12,8 @@
   <br><br>
   Second description 
   <br><br>
-   <a href="[https://www.linkedin.com/in/syahru-al-munawwar/](https://syahruaru-capstone-project-edu-capstone-project-edu-nnsc05.streamlit.app/)">Link</a> 
-  
+   <a href="https://syahruaru-capstone-project-edu-capstone-project-edu-nnsc05.streamlit.app/">Link</a> 
+   
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
