@@ -14,7 +14,7 @@
    <a href="https://syahruaru-capstone-project-edu-capstone-project-edu-nnsc05.streamlit.app/">Dashboard Interactive Link </a> 
    
 ---
-# Data Visualisasi Liverpool Sesaon Review 2022/23
+# Liverpool 2022/23 Season Review Data Visualization
 <img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/project2.jpg?raw=true"/>
 
 Coming Soon
