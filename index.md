@@ -1,9 +1,19 @@
 ## Portfolio
 
 ---
+# Visualisasi Data Edukasi
+<img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/Visualisasi%20Data.png?raw=true"/>
 
-### Category Name 1 
-
+  Election Data Visualization
+  Election 2024, Who Wins?
+  <br><br>
+  Visualization of data relating to the 2024 presidential election, the data used is based on the 2019 elections, the number of DPT 2024 and some results from     
+  survey institutions
+  
+   <a href="https://medium.com/@aruromadhon/pilpres-2024-siapa-unggul-1d56ab6004d6">Medium Link </a> 
+   <a href="https://public.tableau.com/views/ProjectPemilu/VisualisasiData?:language=en-US&:display_count=n&:origin=viz_share_link">Dashboard Interactive Link </a> 
+   
+---
 # Visualisasi Data Edukasi
 <img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/project1.jpg?raw=true"/>
 
