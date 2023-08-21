@@ -1,11 +1,9 @@
 ## Portfolio
 
 ---
-# Election Data Visualization Election 2024, Who Wins?
+# Election Data Visualization: Election 2024, Who Wins?
 <img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/Visualisasi%20Data.png?raw=true"/>
 
-  Election Data Visualization
-  Election 2024, Who Wins?
   <br><br>
   Visualization of data relating to the 2024 presidential election, the data used is based on the 2019 elections, 
   the number of DPT 2024 and some results from survey institutions
