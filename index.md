@@ -1,16 +1,17 @@
 ## Portfolio
 
 ---
-# Visualisasi Data Edukasi
+# Election Data Visualization Election 2024, Who Wins?
 <img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/Visualisasi%20Data.png?raw=true"/>
 
   Election Data Visualization
   Election 2024, Who Wins?
   <br><br>
-  Visualization of data relating to the 2024 presidential election, the data used is based on the 2019 elections, the number of DPT 2024 and some results from     
-  survey institutions
+  Visualization of data relating to the 2024 presidential election, the data used is based on the 2019 elections, 
+  the number of DPT 2024 and some results from survey institutions
   
    <a href="https://medium.com/@aruromadhon/pilpres-2024-siapa-unggul-1d56ab6004d6">Medium Link </a> 
+   <br><br>
    <a href="https://public.tableau.com/views/ProjectPemilu/VisualisasiData?:language=en-US&:display_count=n&:origin=viz_share_link">Dashboard Interactive Link </a> 
    
 ---
