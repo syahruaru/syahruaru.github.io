@@ -12,7 +12,7 @@
   
    <a href="https://medium.com/@aruromadhon/pilpres-2024-siapa-unggul-1d56ab6004d6">Medium Link </a> 
    <br><br>
-   <a href="https://public.tableau.com/views/ProjectPemilu/VisualisasiData?:language=en-US&:display_count=n&:origin=viz_share_link">Dashboard Interactive Link </a> 
+   <a href="https://public.tableau.com/views/ProjectPemilu/VisualisasiData?:language=en-US&:display_count=n&:origin=viz_share_link">Interactive dashboard link</a> 
    
 ---
 # Visualisasi Data Edukasi
@@ -22,7 +22,7 @@
   <br><br>
   Tetris Capstone Project 
   
-   <a href="https://syahruaru-capstone-project-edu-capstone-project-edu-nnsc05.streamlit.app/">Dashboard Interactive Link </a> 
+   <a href="https://syahruaru-capstone-project-edu-capstone-project-edu-nnsc05.streamlit.app/">Interactive dashboard link</a> 
    
 ---
 # Liverpool 2022/23 Season Review Data Visualization
