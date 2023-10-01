@@ -22,6 +22,17 @@
    <a href="https://syahruaru-capstone-project-edu-capstone-project-edu-nnsc05.streamlit.app/">Interactive dashboard link</a> 
    
 ---
+# Super Cashier Python Project
+<img src="https://github.com/syahruaru/SuperCashier-PacmannPythonProject/blob/main/img/Flowchart.jpg?raw=true"/>
+
+  Project Membuat Kasir self-service, pembeli dapat menginputkan nama barang, jumlah barang, dan harga barang. Hasil akhirnya adalah total harga yang harus 
+  dibayarkan pada suatu transaksi.
+  <br><br>
+  Pacmann Python I & II project
+  
+   <a href="https://github.com/syahruaru/SuperCashier-PacmannPythonProject">Github link</a> 
+   
+---
 # Liverpool 2022/23 Season Review Data Visualization
 <img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/project2.jpg?raw=true"/>
 
