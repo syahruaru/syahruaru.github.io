@@ -1,6 +1,16 @@
 ## Portfolio
 
 ---
+# Data visualization of solar energy potential in Indonesia
+<img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/dashboard%200.png?raw=true"/>
+  
+  Data Viz Potential of Solar Energy as a Source of Electricity in Indonesia
+  
+    <a href="https://medium.com/@aruromadhon/potensi-energi-surya-sebagai-sumber-listrik-di-indonesia-99de486c71f6">Medium Link </a> 
+   <br><br>
+   <a href="https://public.tableau.com/views/EBTProject-Dashboard/Story1?:language=en-US&:display_count=n&:origin=viz_share_link">Interactive dashboard link</a> 
+   
+---
 # Data wrangling survey data related to users' interest in learning material programs
 <img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/pic.jpg?raw=true"/>
   
