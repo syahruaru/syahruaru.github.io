@@ -1,6 +1,14 @@
 ## Portfolio
 
 ---
+# Data wrangling survey data related to users' interest in learning material programs
+<img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/pic.jpg?raw=true"/>
+  
+  processing data from Google Form surveys into CSV files
+  
+   <a href="https://github.com/syahruaru/Mini-Project">Github Link </a>  
+   
+---
 # Election Data Visualization: Election 2024, Who Wins?
 <img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/Visualisasi%20Data.png?raw=true"/>
   
