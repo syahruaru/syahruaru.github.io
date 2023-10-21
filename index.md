@@ -7,7 +7,6 @@
   Data Viz Potential of Solar Energy as a Source of Electricity in Indonesia
   
    <a href="https://medium.com/@aruromadhon/potensi-energi-surya-sebagai-sumber-listrik-di-indonesia-99de486c71f6">Medium Link </a>  
-   <br><br>
    <a href="https://public.tableau.com/views/EBTProject-Dashboard/Story1?:language=en-US&:display_count=n&:origin=viz_share_link">Interactive dashboard link</a> 
    
 ---
