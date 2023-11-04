@@ -1,6 +1,16 @@
 ## Portfolio
 
 ---
+# E-Commerce Data Wrangling Project
+<img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/Thumbnail%20Data%20Wrangling.jpg?raw=true"/>
+  
+  This project analyzes data from an E-commerce platform, utilizing the relational Olist database. The project is executed using SQL and Python. Its primary 
+  objective is to extract information from the existing database and provide new insights for optimizing sales through data-driven approaches.
+  
+   <a href="https://medium.com/@aruromadhon/e-commerce-data-wrangling-project-b055e3c1d026">Medium Link</a>  
+   <a href="https://github.com/syahruaru/Data-Wrangling-Project">Github link</a>
+
+---
 # Data visualization of solar energy potential in Indonesia
 <img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/dashboard%200.png?raw=true"/>
   
