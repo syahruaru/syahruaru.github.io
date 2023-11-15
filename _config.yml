@@ -5,7 +5,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/syahru-al-munawwar/">View My LinkedIn Profile</a> 
   <br>
+  https://drive.google.com/file/d/16Gm50WcE0p0ZhHvYrxyKL0FVcwHhFgBH/view?usp=sharing>Certificate</a> 
+  <br>
+  https://drive.google.com/file/d/1vavJsRfHLUshrDsWwkQEvYRHIMhktUUU/view?usp=sharing>CV</a> 
+  <br>
   <a href="https://bit.ly/44CsvsB">Other Portofolio</a> 
+  <br>
+  Email: aruromadhon@gmail.com | almunawwar.aru@gmail.com
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
