@@ -1,6 +1,19 @@
 ## Portfolio
 
 ---
+# Project: Insurance Data
+<img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/Dashboard-Probability.png?raw=true"/>
+  
+  This project involves analyzing a dataset on personal health bills using Python programming and basic probability concepts.
+  The objective is to make informed, data-driven decisions that positively impact business continuity.
+  The dataset includes information on health bill amounts, age, gender, BMI, number of dependents (children), smoking status (Yes/No), and region of residence.
+  Through data exploration, the goal is to identify correlations, formulate hypotheses, validate them, and make decisions based on the validated hypotheses.
+  
+   <a href="https://medium.com/@aruromadhon/probability-project-insurance-data-7fd4b8223a18">Medium Link</a>  
+   <a href="https://public.tableau.com/views/ProbabilityProjectDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">Interactive Dashboard Link</a>  
+   <a href="https://github.com/syahruaru/Probability-Project">Github link</a>
+   
+---
 # E-Commerce Data Wrangling Project
 <img src="https://github.com/syahruaru/syahruaru.github.io/blob/master/images/Thumbnail%20Data%20Wrangling.jpg?raw=true"/>
   
