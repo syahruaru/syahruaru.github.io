@@ -1,7 +1,7 @@
 title: Syahru Romadhon Al-Munawwar # your name (or website title) here
 logo: "https://github.com/syahruaru/syahruaru.github.io/blob/master/images/photo%20porto%20.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Instrument Engineer with an academic background in Electronics and Instrumentation Engineering from Gadjah Mada University. Final project focused on digital signal data processing using machine learning. Currently deepening knowledge in data science through online courses. Working as an Instrument Engineer at PT Inti Karya Persada Tehnik (IKPT), involved in instrumentation and control systems for industrial projects. 
+  Instrument Engineer with an academic background in Electronics and Instrumentation Engineering from Gadjah Mada University 
   <br><br>
   <a href="https://www.linkedin.com/in/syahru-al-munawwar/">View My LinkedIn Profile</a> 
   <br>
@@ -10,8 +10,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://drive.google.com/file/d/1aOTsW0hebC9HFeVyagNZ5bfLYyLFvore/view?usp=sharing">View My CV</a> 
   <br>
   <a href="https://medium.com/@aruromadhon">Medium</a> 
-  <br>
-  <a href="https://bit.ly/44CsvsB">Other Portofolio</a> 
   <br>
   Email: aruromadhon@gmail.com | almunawwar.aru@gmail.com
 remote_theme: pages-themes/minimal@v0.2.0
